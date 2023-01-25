@@ -1,0 +1,1 @@
+export const GET_TYPE_DEVICE = 'GET_TYPE_DEVICE'

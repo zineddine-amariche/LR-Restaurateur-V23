@@ -1,0 +1,8 @@
+
+
+
+export const ADD_SECONDS = "ADD_SECONDS"
+export const DELETE_SECONDS = "DELETE_SECONDS"
+export const IS_TIMER_ACTIVE = "IS_TIMER_ACTIVE"
+export const GET_SECOND_LEFT = "GET_SECOND_LEFT"
+export const CHANGE_STYLES = "CHANGE_STYLES"

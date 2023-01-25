@@ -1,0 +1,9 @@
+export const PRINTER_CONNECTED = 'PRINTER_CONNECTED';
+export const PRINTER_FAILED = 'PRINTER_FAILED';
+export const PRINTER_LOADING = 'PRINTER_LOADING';
+export const DELETE_MESSAGES_PRINTER = 'DELETE_MESSAGES_PRINTER';
+export const NBR_TICKET = 'NBR_TICKET';
+export const ADD = 'ADD';
+export const DELETE = 'DELETE';
+export const PRINTER_INFO = 'PRINTER_INFO';
+
